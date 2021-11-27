@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Rishi E. Kumar
+title: PhD Candidate
+email: rishi42@gmail.com
+website: rekumar.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+twitter_username: rekumar_
+github_username:  rekumar
+# stackoverflow_username: 
+# dribbble_username: 
+# facebook_username: 
+# flickr_username: 
+# instagram_username: 
+linkedin_username: rekumar
+# xing_username: 
+# pinterest_username: 
+# youtube_username: 
+# googleplus_username: 
+orcid_username:  0000-0002-1993-9275
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: google scholar
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://scholar.google.com/citations?user=nVzy5csAAAAJ&hl=en
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,11 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/REK.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Rishi and I am researching high-throughput discovery and optimization of photovoltaic materials at UC San Diego. I bridge hardware, software, and materials expertise to develop automated platforms for material science research. Additionally, I have developed spatial metrology techniques for benchtop and synchrotron analysis of photovoltaics. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Materials Characterization</mark> and <mark>Python</mark> 
 
 content:
   - title: Projects # Title for the section
