@@ -54,6 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Materials Characterization</mark>, <mark>Automation</mark>, and <mark>Python</mark>.
 
+  Get my CV [here](assets/REK_CV.pdf).
+
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
