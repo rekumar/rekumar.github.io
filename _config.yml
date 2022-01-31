@@ -62,7 +62,7 @@ content:
     content:
       - layout: top-middle
         title: Roboflo
-        link: github.com/rekumar/roboflo
+        # link: github.com/rekumar/roboflo
         # link_text: Project Website
         additional_links:
           - title:  rekumar/roboflo
@@ -74,6 +74,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          [![Roboflo](https://github.com/rekumar/mixsol/raw/main/docs/mixsol.svg)](github.com/rekumar/roboflo)
           Task scheduler for any system with coordinated workers. The original use case is for the Perovskite Automated Solar Cell Assembly Line (PASCAL) in the Fenning Lab at UC San Diego, where a robotic arm moves small glass slides between stations to perform experiments.
       
       - layout: top-middle
