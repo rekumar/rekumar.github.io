@@ -71,10 +71,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          # [![PASCAL](https://img.youtube.com/vi/dKTjTsvgrgU/0.jpg)](https://youtu.be/dKTjTsvgrgU)
+
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          [![PASCAL](https://img.youtube.com/vi/dKTjTsvgrgU/0.jpg)](https://youtu.be/dKTjTsvgrgU)
           The Perovskite Automated Solar Cell Assembly Line (PASCAL) at the Fenning Lab in UC San Diego. Spin-coats and characterizes optoelectronic thin films, constructs solar cells, and executes closed-loop active learning optimization campaigns. A constant work in progress!
 
           Check it out in action [here](https://youtu.be/dKTjTsvgrgU) and [here](https://youtu.be/l_-ezXn_QaU)!
@@ -92,8 +93,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # [![Roboflo](https://github.com/rekumar/roboflo/raw/master/docs/roboflo.png)](github.com/rekumar/roboflo)
+
         description: | # this will include new lines to allow paragraphs
-          [![Roboflo](https://github.com/rekumar/roboflo/raw/master/docs/roboflo.png)](github.com/rekumar/roboflo)
           Task scheduler for any system with coordinated workers. The original use case is for the Perovskite Automated Solar Cell Assembly Line (PASCAL) in the Fenning Lab at UC San Diego, where a robotic arm moves small glass slides between stations to perform experiments.
       
       - layout: top-middle
@@ -109,8 +111,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # [![MixSol](https://github.com/rekumar/mixsol/raw/main/docs/mixsol.svg)](github.com/rekumar/mixsol)
+
         description: | # this will include new lines to allow paragraphs
-          [![MixSol](https://github.com/rekumar/mixsol/raw/main/docs/mixsol.svg)](github.com/rekumar/mixsol)
           Pipetting planner for efficient combinatorial mixing of solutions. Often we want to interpolate a few stock solutions into many target mixtures. If some of these mixtures require only a tiny amount of a stock solution, the minimum volume for our pipette may limit our ability to make this solution without a serial dilution. Mixsol searches for mixing sequences that use only other target solutions as stepping stones to reach these difficult mixtures, minimizing waste.
 
 
