@@ -60,7 +60,7 @@ content:
   - title: Code for Lab Automation # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: PASCAL
         # link: https://github.com/fenning-research-group/PASCAL
         # link_text: Project Website
@@ -80,7 +80,7 @@ content:
 
           Check it out in action [here](https://youtu.be/dKTjTsvgrgU) and [here](https://youtu.be/l_-ezXn_QaU)!
       
-      - layout: top-middle
+      - layout: left
         title: Roboflo
         # link: github.com/rekumar/roboflo
         # link_text: Project Website
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Task scheduler for any system with coordinated workers. The original use case is for the Perovskite Automated Solar Cell Assembly Line (PASCAL) in the Fenning Lab at UC San Diego, where a robotic arm moves small glass slides between stations to perform experiments.
       
-      - layout: top-middle
+      - layout: left
         title: MixSol
         # link: github.com/rekumar/mixsol
         # link_text: Project Website
@@ -123,7 +123,7 @@ content:
       - layout: middle
         description: |
           ![My Timeline](assets/timeline.jpg)
-          
+
       - layout: left
         title: Fenning Lab at UC San Diego
         link: fenningresearchgroup.com
