@@ -49,12 +49,12 @@ additional_links:
 about_profile_image: images/REK.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Rishi and I am researching high-throughput discovery and optimization of photovoltaic materials at UC San Diego.
-  I bridge hardware, software, and materials expertise to develop automated platforms for material science research.
-  Additionally, I have developed spatial metrology techniques for [benchtop](https://ieeexplore.ieee.org/abstract/document/8854288) and [synchrotron](https://link.springer.com/article/10.1557/s43580-021-00114-0) analysis of photovoltaics. 
+  I bridge hardware, software, and materials expertise to automate material science research.
+  Additionally, I have developed spatially resolved metrology techniques for [benchtop](https://ieeexplore.ieee.org/abstract/document/8854288) and [synchrotron](https://link.springer.com/article/10.1557/s43580-021-00114-0) characterization of photovoltaics. 
 
-  I am most skilled in: <mark>Materials Characterization</mark>, <mark>Automation</mark>, and <mark>Python</mark>.
+  I am most skilled in: <mark>Materials Characterization</mark>, <mark>Lab Automation</mark>, and <mark>Python</mark>.
 
-  Get my CV [here](assets/REK_CV.pdf).
+  Get my CV [here](assets/20220130_RishiEKumar_CV.pdf).
 
 content:
   - title: Code for Lab Automation # Title for the section
@@ -74,7 +74,42 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Task scheduler for any system with coordinated workers. The original use case is for the Perovskite Automated Solar Cell Assembly Line (PASCAL) in the Fenning Lab at UC San Diego, where a robotic arm moves small glass slides between stations to perform experiments.
+      
+      - layout: top-middle
+        title: MixSol
+        link: github.com/rekumar/mixsol
+        # link_text: Project Website
+        additional_links:
+          - title:  rekumar/mixsol
+            icon: fab fa-github
+            url: github.com/rekumar/mixsol
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Pipetting planner for efficient combinatorial mixing of solutions. Often we want to interpolate a few stock solutions into many target mixtures. If some of these mixtures require only a tiny amount of a stock solution, the minimum volume for our pipette may limit our ability to make this solution without a serial dilution. Mixsol searches for mixing sequences that use only other target solutions as stepping stones to reach these difficult mixtures, minimizing waste.
+
+      - layout: top-middle
+        title: PASCAL
+        link: https://github.com/fenning-research-group/PASCAL
+        # link_text: Project Website
+        additional_links:
+          - title:  fenning-research-group/PASCAL
+            icon: fab fa-github
+            url: https://github.com/fenning-research-group/PASCAL
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          The Perovskite Automated Solar Cell Assembly Line (PASCAL) at the Fenning Lab in UC San Diego. Spin-coats and characterizes optoelectronic thin films, constructs solar cells, and executes closed-loop active learning optimization campaigns. A constant work in progress!
+
+          Check it out in action [here](https://youtu.be/dKTjTsvgrgU) and [here](https://youtu.be/l_-ezXn_QaU)!
+      
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
