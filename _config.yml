@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Rishi E. Kumar
-title: PhD Candidate
+title: Postdoctoral Researcher
 email: rishi42@gmail.com
 website: rekumar.github.io
 
@@ -48,13 +48,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/REK.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Rishi and I am researching high-throughput discovery and optimization of photovoltaic materials at UC San Diego.
+  Hi, my name's Rishi and I am developing software for high-throughput material discovery and optimization at Lawrence Berkeley National Lab.
   I bridge hardware, software, and materials expertise to automate material science research.
   Additionally, I have developed spatially resolved metrology techniques for [benchtop](https://ieeexplore.ieee.org/abstract/document/8854288) and [synchrotron](https://link.springer.com/article/10.1557/s43580-021-00114-0) characterization of photovoltaics. 
 
   I am most skilled in: <mark>Materials Characterization</mark>, <mark>Lab Automation</mark>, and <mark>Python</mark>.
 
-  Get my CV [here](assets/20220130_RishiEKumar_CV.pdf).
+  Get my CV [here](assets/REK_CV.pdf).
 
 content:
   - title: Code for Lab Automation # Title for the section
@@ -120,16 +120,27 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
-        description: |
-          ![My Timeline](assets/timeline.jpg)
+      # - layout: middle
+      #   description: |
+      #     ![My Timeline](assets/timeline.jpg)
+
+      - layout: left
+        title: Hacking Materials at Lawrence Berkeley National Lab
+        link: hackingmaterials.lbl.gov
+        # link_text: boringcompany.com
+        sub_title: Postdoctoral Researcher
+        caption: 2022 - Present
+        # quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          Developing software for automated experimentation platforms. This ranges from backend, hardware orchestration to AI-driven decision making in closed-loop experiments.
 
       - layout: left
         title: Fenning Lab at UC San Diego
         link: fenningresearchgroup.com
         # link_text: boringcompany.com
         sub_title: PhD Candidate
-        caption: 2017 - Present
+        caption: 2017 - 2022
         # quote: >
           
         description: | # this will include new lines to allow paragraphs
